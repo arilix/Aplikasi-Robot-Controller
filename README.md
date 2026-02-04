@@ -88,15 +88,6 @@ flutter install
 - **DRIBBLE** - Kontrol bola
 - **STOP** - Emergency stop
 
-### 4. Mode Pro (Tuning)
-- Tap tombol "BIASA" di status bar
-- Atur parameter:
-  - PWM Maximum
-  - Frekuensi PWM
-  - Sensitivitas
-- Tap "Upload" untuk kirim ke robot
-- Tap "Reset" untuk kembali ke default
-
 ## 📋 Protokol Data
 
 ### Control Data (Real-time)
