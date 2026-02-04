@@ -8,23 +8,6 @@ Aplikasi Android untuk mengontrol robot ESP32 melalui Bluetooth dengan tampilan 
 - **Robot SUMO** - Fokus: Dorong & Torque
 - **Robot SOCCER** - Fokus: Manuver & Tendang
 
-### 🎯 Dual Mode
-- **Mode Biasa** - Plug and play dengan pengaturan default pabrik
-- **Mode Pro** - Menu tuning untuk mengatur parameter teknis:
-  - PWM Maximum (0-255)
-  - Frekuensi PWM (100-5000 Hz)
-  - Sensitivitas Joystick (1-100)
-
-### 🎨 UI/UX Scratch-Style
-- Palet warna khas Scratch:
-  - 🔵 **Biru (Motion)** - Joystick & Pergerakan
-  - 🟡 **Kuning (Events)** - Tombol Kick/Tendang
-  - 🟣 **Ungu (Looks)** - Tombol Boost/Seruduk
-  - 🟢 **Hijau (Operators)** - Pengaturan Pro Mode
-- Tombol berbentuk puzzle/blok kode
-- Font rounded yang gemoy
-- Haptic feedback saat tombol ditekan
-
 ### 📱 Responsive Design
 - Landscape mode untuk kontrol optimal
 - Mendukung semua ukuran device Android
