@@ -1,0 +1,41 @@
+# Flutter / Dart
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+*.iml
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/*.keystore
+android/.idea/
+android/captures/
+android/app/debug/
+android/app/release/
+
+# APK / AAB
+*.apk
+*.aab
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Misc
+*.log
+*.swp
+.DS_Store
+.vscode/
+.idea/
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.mocks.dart
