@@ -246,27 +246,10 @@ flutter run --debug
 flutter build apk --release --split-per-abi
 ```
 
-## 📝 TODO / Future Features
-- [ ] Sound effects (Pop/Meow khas Scratch)
-- [ ] Preset konfigurasi
-- [ ] Data logging & replay
-- [ ] Multi-language support
-- [ ] Tutorial interaktif
-- [ ] Grafik telemetry real-time
 
 ## 📄 License
 MIT License - Silakan digunakan dan dimodifikasi sesuai kebutuhan!
 
-## 🤝 Contributing
-Pull requests welcome! Untuk perubahan besar, buka issue terlebih dahulu.
-
-## 💡 Tips & Tricks
-- **Gunakan Mode Pro** untuk tuning sesuai kondisi lapangan
-- **PWM tinggi** untuk power maksimal tapi konsumsi baterai lebih boros
-- **Sensitivitas rendah** untuk kontrol lebih halus
-- **Frekuensi tinggi** untuk motor lebih smooth
-
----
 
 **Made with ❤️ using Flutter & Scratch-Style UI**
 
