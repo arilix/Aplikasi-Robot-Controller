@@ -219,12 +219,3 @@ flutter run --debug
 ```bash
 flutter build apk --release --split-per-abi
 ```
-
-
-## 📄 License
-MIT License - Silakan digunakan dan dimodifikasi sesuai kebutuhan!
-
-
-**Made with ❤️ using Flutter & Scratch-Style UI**
-
-🎮 Happy Controlling! 🤖
